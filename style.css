@@ -130,3 +130,12 @@ article {
     border-style: outset;   
     background: linear-gradient(#D9EAFD, #9AA6B2)
 }
+
+#about_page {
+    height: 100vh;
+}
+
+
+#home_page {
+    height: 100vh;
+}
