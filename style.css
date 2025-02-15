@@ -120,3 +120,13 @@ article {
     border-style: outset;   
     background: linear-gradient(#D9EAFD, #9AA6B2)
 }
+
+.script4 {
+    margin-top: 3%;
+    margin-left: 1%;
+    padding: 1%;
+    width: 50%;
+    border: solid;
+    border-style: outset;   
+    background: linear-gradient(#D9EAFD, #9AA6B2)
+}
